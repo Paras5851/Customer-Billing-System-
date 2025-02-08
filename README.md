@@ -1,5 +1,4 @@
-
-Billing System – Python Project
+**Billing System – Python Project**
 
 Overview
 The Billing System is a simple Python-based project that allows shopkeepers to calculate the total amount a customer needs to pay based on item prices and quantities. It supports multiple customers and enables users to add multiple items per customer.
